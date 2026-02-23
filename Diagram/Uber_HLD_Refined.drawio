@@ -1,0 +1,223 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.0">
+  <diagram name="Page-1" id="gy4QXd46Li5kjZ32QvYX">
+    <mxGraphModel dx="2084" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-1" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="1. Requirement Clarification&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. User Login Type&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. OTP&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. Vehicle Type&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. Fare calculation&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;e. Rider List Logic&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;f. Booking for myself &amp;amp; Others&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;g. Notification&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;h. Live Tracking&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;i. Payment&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;j. Message &amp;amp; calling&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;k.&amp;nbsp;Ride cancelation&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;l. waiting period" vertex="1">
+          <mxGeometry height="200" width="320" x="100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-5" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-20" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-35" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="6h7vK4jDnLajAt4j1ZN_-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1230" />
+              <mxPoint x="610" y="1230" />
+              <mxPoint x="610" y="1208" />
+            </Array>
+            <mxPoint x="610" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-3" parent="1" style="whiteSpace=wrap;html=1;" value="User Login/SignUp&lt;br&gt;(different type of user Like captain/rider)" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-7" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-9" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-4" parent="1" style="whiteSpace=wrap;html=1;" value="If user has to select the destination location" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-6" parent="1" style="whiteSpace=wrap;html=1;" value="use Google Map service" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-11" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-16" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-37" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6h7vK4jDnLajAt4j1ZN_-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="950" />
+              <mxPoint x="485" y="950" />
+              <mxPoint x="485" y="1175" />
+              <mxPoint x="690" y="1175" />
+            </Array>
+            <mxPoint x="530" y="725" as="sourcePoint" />
+            <mxPoint x="655" y="1175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-8" parent="1" style="whiteSpace=wrap;html=1;" value="Rider selection" vertex="1">
+          <mxGeometry height="60" width="110" x="510" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-10" parent="1" style="whiteSpace=wrap;html=1;" value="Notify the nearest captaing like with 1km and Active this can be anything else" vertex="1">
+          <mxGeometry height="60" width="120" x="505" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="490" />
+              <mxPoint x="1440" y="480" />
+              <mxPoint x="1440" y="700" />
+              <mxPoint x="1440" y="930" />
+            </Array>
+            <mxPoint x="240" y="920" as="sourcePoint" />
+            <mxPoint x="240" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-14" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-13" parent="1" style="whiteSpace=wrap;html=1;" value="geo location will be enable for this above part" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-18" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-23" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-25" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-15" parent="1" style="whiteSpace=wrap;html=1;rotation=-4;" value="Rider Booked" vertex="1">
+          <mxGeometry height="60" width="110" x="679.67" y="650.54" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-52" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6h7vK4jDnLajAt4j1ZN_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-17" parent="1" style="whiteSpace=wrap;html=1;" value="Store data in No-Sql Data base as this will be write heavy" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-21" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="6h7vK4jDnLajAt4j1ZN_-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="970" />
+              <mxPoint x="430" y="770" />
+              <mxPoint x="725" y="770" />
+            </Array>
+            <mxPoint x="330" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-19" parent="1" style="whiteSpace=wrap;html=1;" value="SQL Data base to connect with Rider and captain" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-22" parent="1" style="whiteSpace=wrap;html=1;" value="Randomly generated OTP" vertex="1">
+          <mxGeometry height="60" width="120" x="695" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-27" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-24" parent="1" style="whiteSpace=wrap;html=1;" value="Start Jarnuary" vertex="1">
+          <mxGeometry height="60" width="120" x="895" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-29" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-33" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-26" parent="1" style="whiteSpace=wrap;html=1;" value="Live Tracking" vertex="1">
+          <mxGeometry height="60" width="120" x="1095" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-31" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6h7vK4jDnLajAt4j1ZN_-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-28" parent="1" style="whiteSpace=wrap;html=1;" value="Reached Destination" vertex="1">
+          <mxGeometry height="60" width="120" x="1295" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-30" parent="1" style="whiteSpace=wrap;html=1;" value="Payment" vertex="1">
+          <mxGeometry height="60" width="120" x="1495" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-32" parent="1" style="whiteSpace=wrap;html=1;" value="Connect with third party&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1095" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notification Service" vertex="1">
+          <mxGeometry height="50" width="160" x="690" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User has Logged-In" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Looking for captain" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-41" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-15" style="endArrow=classic;html=1;rounded=0;entryX=0.853;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="6h7vK4jDnLajAt4j1ZN_-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1040" />
+            </Array>
+            <mxPoint x="930" y="940" as="sourcePoint" />
+            <mxPoint x="840" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Found the captain" vertex="1">
+          <mxGeometry height="30" width="60" x="900" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-44" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-24" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="990" />
+            </Array>
+            <mxPoint x="1090" y="1080" as="sourcePoint" />
+            <mxPoint x="860" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jarnuary has strated" vertex="1">
+          <mxGeometry height="30" width="60" x="1030" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-46" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-26" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="6h7vK4jDnLajAt4j1ZN_-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="980" />
+            </Array>
+            <mxPoint x="830" y="920" as="sourcePoint" />
+            <mxPoint x="880" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-47" connectable="0" parent="6h7vK4jDnLajAt4j1ZN_-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Live Tracking How much distance left" vertex="1">
+          <mxGeometry relative="1" x="0.3154" y="12" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-48" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-28" style="endArrow=classic;html=1;rounded=0;entryX=0.889;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6h7vK4jDnLajAt4j1ZN_-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="1080" />
+            </Array>
+            <mxPoint x="770" y="950" as="sourcePoint" />
+            <mxPoint x="820" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ride has completed" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Connect with user data base to fetch data related to captain and rider" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-56" edge="1" parent="1" source="6h7vK4jDnLajAt4j1ZN_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="560" />
+              <mxPoint x="830" y="660" />
+            </Array>
+            <mxPoint x="790" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6h7vK4jDnLajAt4j1ZN_-55" parent="1" style="whiteSpace=wrap;html=1;" value="Call and Message with and to Rider" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

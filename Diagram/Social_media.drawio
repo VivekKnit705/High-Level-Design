@@ -1,0 +1,114 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Page-1" id="QUjwFTfQeLl_FGKK5sMY">
+    <mxGraphModel dx="1603" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-1" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;b&gt;Requirement&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;User&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;content suggestion&lt;/li&gt;&lt;li&gt;Like, share, comment&lt;/li&gt;&lt;li&gt;Connection request fallow + friend request , add friend, remove friend,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Type of content (text, image, video)&lt;/li&gt;&lt;li&gt;Search with name&lt;/li&gt;&lt;li&gt;Privacy like private content&lt;/li&gt;&lt;li&gt;Active user&lt;/li&gt;&lt;li&gt;latency&lt;/li&gt;&lt;li&gt;throuput&lt;/li&gt;&lt;li&gt;availability&lt;/li&gt;&lt;li&gt;consistency&lt;/li&gt;&lt;li&gt;durability&lt;/li&gt;&lt;li&gt;data rentation&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="350" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-4" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-12" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-2" parent="1" style="whiteSpace=wrap;html=1;" value="User Sign-in/" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-6" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-13" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DuWjHIzUjdAT6b10ijpt-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="550" />
+              <mxPoint x="320" y="550" />
+              <mxPoint x="320" y="630" />
+              <mxPoint x="170" y="630" />
+            </Array>
+            <mxPoint x="260" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-19" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-3" parent="1" style="whiteSpace=wrap;html=1;" value="Add/ fallow Friend" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-8" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-15" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-5" parent="1" style="whiteSpace=wrap;html=1;" value="Suggest content&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-17" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-24" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-7" parent="1" style="whiteSpace=wrap;html=1;" value="Like, Comment, share" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-11" parent="1" style="whiteSpace=wrap;html=1;" value="No Sql Database" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-30" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-14" parent="1" style="whiteSpace=wrap;html=1;" value="Show the popular video if user is coming first time else show him the content base on his watch history&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="130" x="450" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-32" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-16" parent="1" style="whiteSpace=wrap;html=1;" value="Add it to No-SQL Data base&amp;nbsp; as&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-18" parent="1" style="whiteSpace=wrap;html=1;" value="We can have No-SQL data base as a user can have multiple firends" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-26" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-36" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-23" parent="1" style="whiteSpace=wrap;html=1;" value="Post Content" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-34" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-25" parent="1" style="whiteSpace=wrap;html=1;" value="We can have content Type and if the content is video or image save it to S3 if post is text then save it to database itself" vertex="1">
+          <mxGeometry height="120" width="130" x="850" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-29" parent="1" style="whiteSpace=wrap;html=1;" value="Cache Data" vertex="1">
+          <mxGeometry height="60" width="120" x="455" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-31" parent="1" style="whiteSpace=wrap;html=1;" value="Cache the data&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-33" parent="1" style="whiteSpace=wrap;html=1;" value="cache the data&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="855" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-38" edge="1" parent="1" source="DuWjHIzUjdAT6b10ijpt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DuWjHIzUjdAT6b10ijpt-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-35" parent="1" style="whiteSpace=wrap;html=1;" value="Send it to the fallowers, friends" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-37" parent="1" style="whiteSpace=wrap;html=1;" value="Cached the data as this will be shared with&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DuWjHIzUjdAT6b10ijpt-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Consistency: In this Application we can have eventual consistency&lt;br&gt;Availability: system should be highly available&lt;br&gt;Durability: We should not loose the data" vertex="1">
+          <mxGeometry height="30" width="800" x="110" y="920" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
