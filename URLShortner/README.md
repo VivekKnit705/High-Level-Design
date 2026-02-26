@@ -26,7 +26,7 @@ Design a URL shortening service like TinyURL. The service should provide the fol
    
 
 ### Basic HLD Design
-![img_1.png](img_1.png)
+![img_5.png](img_5.png)
 
 ### Better HLD Design
 ![img_3.png](img_3.png)
