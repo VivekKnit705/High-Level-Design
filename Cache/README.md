@@ -11,7 +11,7 @@ Cache is the process of storing frequently accessed data to a temporary data sto
 
 ### Why we can not cache everything?
 1. Hardware cost will be high
-2. If we add ton of data in cache then the search time will increase and it will defeat the purpose of caching.
+2. If we add ton of data in cache then the search time will increase, and it will defeat the purpose of caching.
 
 ### Cache Invalidation Techniques
 1. Time to Live
